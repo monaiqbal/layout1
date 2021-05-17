@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+}
+
+
+.head{
+    background-color: darkred;
+    height: 100px;
+    text-align: center;
+}
+.head h1{
+    color: darkblue;
+    
+}
+.benner{
+    background-color: darkturquoise;
+    height: 200px ;
+    text-align: center;
+}
+.benner h1{
+    color: #000;
+
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: deeppink;
+    text-align: center;
+    height: 200px;
+    float: left;
+    width: 50%;
+}
+.right_content{
+    background-color: greenyellow;
+    text-align: center;
+    height: 200px;
+    float: left;
+    width: 50%;
+}
+.item{
+    overflow: hidden;
+
+}
+.item_one{
+    background-color: indigo;
+    text-align: center;
+    height: 300px;
+    width: 33.3%;
+    float: left;
+}
+.item_two{
+    background-color:olive;
+    text-align: center;
+    height: 300px;
+    width: 33.3%;
+    float: left;
+}
+.item_three{
+    background-color: salmon;
+    text-align: center;
+    height: 300px;
+    width: 33.3%;
+    float: left;
+}
+.foot{
+    background-color: springgreen;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
